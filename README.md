@@ -29,9 +29,8 @@ print(solution)
 ## Output:.
 .
 .
-.
-.
-<img width="1920" height="1200" alt="Screenshot 2025-08-19 210006" src="https://github.com/user-attachments/assets/86e6b589-5046-43fa-aaec-8ab45fd9b72d" />
+<img width="969" height="995" alt="image" src="https://github.com/user-attachments/assets/40bc6de4-a2df-4c94-ba88-d31d932f4619" />
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
